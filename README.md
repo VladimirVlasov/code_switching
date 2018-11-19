@@ -15,7 +15,7 @@
 Цель проекта side. Разобрать корус устного марийского. Привести его в единую форму.
 
 Ресурсы:
-- корпус устного марийского (https://drive.google.com/drive/folders/1ujZWhAnOjNw7jOjYr756_fdcOvfNUoC9)
+- корпус устного марийского
 - корпуса малых языков России (http://web-corpora.net/wsgi3/minorlangs/download)
 
 Текущие задачи:
